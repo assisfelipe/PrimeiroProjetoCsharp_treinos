@@ -1,0 +1,15 @@
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\bin\Debug\net10.0\PrimeiroProjetoCsharp_treinos.exe
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\bin\Debug\net10.0\PrimeiroProjetoCsharp_treinos.deps.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\bin\Debug\net10.0\PrimeiroProjetoCsharp_treinos.runtimeconfig.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\bin\Debug\net10.0\PrimeiroProjetoCsharp_treinos.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\bin\Debug\net10.0\PrimeiroProjetoCsharp_treinos.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.AssemblyInfoInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.AssemblyInfo.cs
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.csproj.CoreCompileInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\refint\PrimeiroProjetoCsharp_treinos.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\PrimeiroProjetoCsharp_treinos.genruntimeconfig.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\ref\PrimeiroProjetoCsharp_treinos.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\PrimeiroProjetoCsharp_treinos\obj\Debug\net10.0\Primeiro.076D1ABE.Up2Date

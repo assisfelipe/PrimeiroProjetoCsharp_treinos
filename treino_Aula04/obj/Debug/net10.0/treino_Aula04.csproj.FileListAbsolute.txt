@@ -1,0 +1,15 @@
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\bin\Debug\net10.0\treino_Aula04.exe
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\bin\Debug\net10.0\treino_Aula04.deps.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\bin\Debug\net10.0\treino_Aula04.runtimeconfig.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\bin\Debug\net10.0\treino_Aula04.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\bin\Debug\net10.0\treino_Aula04.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.AssemblyInfoInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.AssemblyInfo.cs
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.csproj.CoreCompileInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\refint\treino_Aula04.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_Aula04.genruntimeconfig.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\ref\treino_Aula04.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp_treinos\treino_Aula04\obj\Debug\net10.0\treino_A.ACAB944B.Up2Date
